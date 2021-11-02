@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(75, 94, 94);
+}
+
+form {
+  background-color: grey;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  padding-bottom: 15vh;
+  border: 2px;
+  border-style: groove;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(94, 197, 94);
+
+  border: 2px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: floralwhite;
+
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+footer {
+  text-align: center;
+}
+
+.mainform {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 10vw;
+  padding-left: 10vw;
+  padding-right: 20vw;
+}
+
+.submit {
+  background-color: rgb(79, 184, 79);
+}
